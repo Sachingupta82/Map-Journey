@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933365733465",
+    "project_id": "womensy-148d5",
+    "storage_bucket": "womensy-148d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933365733465:android:b6d2ecc277979456723948",
+        "android_client_info": {
+          "package_name": "com.example.users"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFHdzn1gilEqx4XQcmkECWWAmdCHASUKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
